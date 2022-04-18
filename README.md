@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+```
+Debemos tener instalado node js 
+```
 # comic-v2
 
 ## Project setup
