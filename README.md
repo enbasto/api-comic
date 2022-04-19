@@ -3,9 +3,11 @@
 ### TENER EN CUENTA
 ```
 1. Se debe tener instalado node js 
+
 2. Debe tener instalado vue-cli
   el cual lo podemos intalar usando el comando 'npm install -g @vue/cli'
-  o desde su pagina oficial https://cli.vuejs.org/guide/installation.html 
+  o siguiendo la guia de instalacion de su pagina oficial https://cli.vuejs.org/guide/installation.html 
+  
 3. Clonamos el repositorio 'https://github.com/enbasto/api-comic/'
   
 ```
